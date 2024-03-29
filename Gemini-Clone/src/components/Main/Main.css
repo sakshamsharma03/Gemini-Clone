@@ -9,8 +9,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-size: 22px;
-    color: #585858;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #5f6368;
 }
 .main .nav img{
     width: 40px;
